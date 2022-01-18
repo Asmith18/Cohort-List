@@ -143,7 +143,6 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="cohortLabel" destination="l29-LH-EfV" id="aEd-2E-opw"/>
                         <outlet property="cohortNumText" destination="J41-7I-Jf9" id="c8J-sp-JNa"/>
                         <outlet property="studentDetails" destination="yEj-Bj-kPP" id="GCO-hg-Qqo"/>
                         <outlet property="studentNameText" destination="KP9-gd-SBf" id="aU6-2o-T4S"/>
