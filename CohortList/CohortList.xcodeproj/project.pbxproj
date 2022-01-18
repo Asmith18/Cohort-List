@@ -64,7 +64,6 @@
 				D2F7B2722796513300A84719 /* Model Controllers */,
 				D2F7B2702796512A00A84719 /* Models */,
 				D2F7B26F279650CC00A84719 /* Resources */,
-				D2F7B261279650B800A84719 /* Main.storyboard */,
 			);
 			path = CohortList;
 			sourceTree = "<group>";
@@ -100,6 +99,7 @@
 		D2F7B2732796513F00A84719 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				D2F7B261279650B800A84719 /* Main.storyboard */,
 				D2F7B2742796524200A84719 /* StudentListTableViewController.swift */,
 			);
 			path = "View Controllers";

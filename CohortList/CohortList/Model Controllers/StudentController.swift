@@ -12,10 +12,7 @@ class StudentController {
     static var sharedInstance = StudentController()
     // Source of Truth
     var studentList: [Student] = []
-    
-    init() {
-        
-    }
+
     
     //MARK: CRUD Functions
     func createStudent(name: String, age: String) { //Can add other parameters here for second text input
